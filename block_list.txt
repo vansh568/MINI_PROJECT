@@ -1,0 +1,2 @@
+# TARGET LOCK: Enter the IP addresses you want to permanently disconnect.
+# (Example: 192.168.1.15)
