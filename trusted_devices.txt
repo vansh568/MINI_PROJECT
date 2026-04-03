@@ -1,0 +1,16 @@
+# Add your trusted MAC addresses below (one MAC per line)
+# You won't get alerts for these devices.
+
+AA:BB:CC:DD:EE:FF
+11:22:33:44:55:66
+8A:19:88:13:44:2E
+86:E1:3E:92:61:80
+2C:7B:A0:7E:AB:F3
+24:B2:B9:19:9A:95
+E4:1F:D5:B1:0A:26
+90:0F:0C:1C:BA:B1
+F0:EC:53:93:21:02
+12:C8:27:88:7E:0D.
+54:14:F3:0B:C8:63
+D2:79:32:FF:CD:BD
+86:CC:6D:F3:1D:77
